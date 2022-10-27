@@ -16,7 +16,7 @@
 
 以木铎为例,在木铎实验室或者办公室中,插入网线,在浏览器输入"rz.bnuz.edu.cn"完成认证即可上网(或者手动配置IP),这样,你可以使用一些命令查看当前电脑的IP(如果你手动配置了IP那该IP就是你电脑的IP).这样我们可以在任何连接了"BNUZ"或者"BNUZ-Student"网络的地方访问到你的电脑,无需校园网认证,这是本项目成立的前提
 
-# 教程
+# 教程📃
 ## 科学上网原理简介
 
 ```mermaid
@@ -90,3 +90,25 @@ proxy-groups:
       - ✅ select
 ```
 
+# 贡献指南
+
+如果你发现了问题,可以向我提交一个[issue](https://github.com/hexWars/BNUZ-unlock/issues)
+
+## 提交 Pull Request
+
+🎆欢迎pr
+
+以下流程将会帮助你完成一次 PR。
+
+1. Fork 这个项目。
+2. 使用 `git clone` 将项目拉取到本地。
+3. 使用最少的修改来解决 bug。
+4. 使用 `git commit` 提交变更。
+5. 创建一个 PR，并添加相应的说明。
+6. 在 PR 被合并之前请保持关注，以便进行修改。
+
+# License
+
+[The MIT License (MIT)](http://opensource.org/licenses/MIT)
+
+Copyrighted fonts are not subjected to this License.
