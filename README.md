@@ -1,4 +1,4 @@
-# 说明
+# 说明📢
 
 项目地址:[https://github.com/hexWars/BNUZ-unlock](https://github.com/hexWars/BNUZ-unlock)
 
@@ -10,13 +10,14 @@
  - 解除晚上断网限制(用校园VPN也可以解决)
  - 没有充值校园网也可以在宿舍免费上网
 
-# 学校网络环境简单说明
+# 教程📚
+
+## 学校网络环境简单说明
 
 "BNUZ"和"BNUZ-Student"这两个网络是学校的内网,拥有学校内网IP的服务器,我们可以直接访问
 
 以木铎为例,在木铎实验室或者办公室中,插入网线,在浏览器输入"rz.bnuz.edu.cn"完成认证即可上网(或者手动配置IP),这样,你可以使用一些命令查看当前电脑的IP(如果你手动配置了IP那该IP就是你电脑的IP).这样我们可以在任何连接了"BNUZ"或者"BNUZ-Student"网络的地方访问到你的电脑,无需校园网认证,这是本项目成立的前提
 
-# 教程📃
 ## 科学上网原理简介
 
 ```mermaid
@@ -90,13 +91,13 @@ proxy-groups:
       - ✅ select
 ```
 
-# 贡献指南
+# 贡献指南🎆
 
 如果你发现了问题,可以向我提交一个[issue](https://github.com/hexWars/BNUZ-unlock/issues)
 
 ## 提交 Pull Request
 
-🎆欢迎pr
+欢迎pr💖
 
 以下流程将会帮助你完成一次 PR。
 
@@ -107,7 +108,7 @@ proxy-groups:
 5. 创建一个 PR，并添加相应的说明。
 6. 在 PR 被合并之前请保持关注，以便进行修改。
 
-# License
+# License📃
 
 [The MIT License (MIT)](http://opensource.org/licenses/MIT)
 
