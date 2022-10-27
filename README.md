@@ -66,5 +66,23 @@ PC端以`ShadowsocksR`举例,打开之后按照设置一个一个填入代理完
 
 假设你原来所有国外流量的都走`✅ select`,那么设置一个新的组`⏭ relay`,将`type`设置为`relay`,在`proxies`选项中第一个添加你的中继节点服务器(我的就是教学楼的服务器了,例子则是`🇯🇵 JP`),第二个即为你原来的proxy,例子中是`✅ select`,这样开全局的时候选择`⏭ relay`组就可以了
 
-
+```yml
+proxy-groups:
+  - name: ✅ select
+    type: select
+    proxies:
+      - 🎯 LOCAL
+      - ♻️ AUTO
+      - 🇭🇰 HK
+      - 🇯🇵 JP
+      - 🇸🇬 SGP
+      - 🇺🇸 USA
+      - 🎥 NF
+      - 🐟 other
+  - name: ⏭ relay
+    type: relay
+    proxies:
+      - 🇯🇵 JP
+      - ✅ select
+```
 
