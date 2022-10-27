@@ -1,5 +1,9 @@
 # 说明
 
+项目地址:[https://github.com/hexWars/BNUZ-unlock](https://github.com/hexWars/BNUZ-unlock)
+
+欢迎各位用小手点一下⭐
+
 本项目启发于一位18级学长,在他的思想上实现并改进
 
 实现:
